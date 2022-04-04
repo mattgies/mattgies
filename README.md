@@ -1,4 +1,4 @@
-![matt_banner](https://user-images.githubusercontent.com/77320253/161611259-9a49cf75-5ec3-4498-94e2-a348fd931ead.jpeg)
+![Banner image of Matt on a rock formation by the beach](https://user-images.githubusercontent.com/77320253/161611259-9a49cf75-5ec3-4498-94e2-a348fd931ead.jpeg)
 
 
 ### Hey! I'm Matt (he/him), a 3rd-year CS student at UC Irvine. 🌟
